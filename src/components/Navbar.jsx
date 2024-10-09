@@ -39,7 +39,7 @@ const Navbar = () => {
           />
           <p
             className="text-white text-[18px]
-          font-bold cursor-pointer flex">Harsh &nbsp;
+          font-bold cursor-pointer flex">
         
           </p>
         </Link>
