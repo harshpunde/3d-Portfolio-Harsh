@@ -119,7 +119,7 @@ const Works = () => {
   return (
     <>
       <motion.div variants={textVariant()}>
-        <p className={`${styles.sectionSubText} `}>Our work</p>
+        <p className={`${styles.sectionSubText} `}>My work</p>
         <h2 className={`${styles.sectionHeadText}`}>Projects.</h2>
       </motion.div>
 
@@ -128,7 +128,7 @@ const Works = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]'
         >
-Here are some projects that illustrate our skills and experience through practical examples of our work. Each project features a brief description, along with links to the code repositories and live demos. These examples showcase our capability to address complex challenges, utilize a variety of technologies, and manage projects effectively.
+My projects reflect my hands-on experience and technical expertise in building real-world applications. Each project is accompanied by a concise description, along with links to the source code and live demo. Together, they showcase my ability to tackle complex challenges, leverage modern technologies, and deliver efficient, scalable solutions.
         </motion.p>
       </div>
 
