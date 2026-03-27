@@ -16,7 +16,7 @@ const Hero = () => {
 
         <div>
           <h1 className={`${styles.heroHeadText} text-white`}>
-            Hi, We are <span className='text-transparent bg-gradient-to-r from-orange-600 to-orange-800 bg-clip-text'>Developers</span>
+            Hi, I'm <span className='text-transparent bg-gradient-to-r from-orange-600 to-orange-800 bg-clip-text'>FullStack Developer</span>
           </h1>
 
 

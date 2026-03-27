@@ -88,22 +88,8 @@ const Footer = () => {
         <h1 className="text-2xl ">Get In Touch</h1>
         <h3 className="text-transparent bg-clip-text text-2xl font-semibold mb-6 text-light-green-400">Contact Us</h3>
         <ul className="space-y-4 text-white text-center">
-          <li>
-            <a
-              href="tel:+9174579426"
-              className="hover:text-light-green-400 transition-all duration-300"
-            >
-              9174579426
-            </a>
-          </li>
-          <li>
-            <a
-              href="mailto:example1@gmail.com"
-              className="hover:text-light-green-400 transition-all duration-300"
-            >
-             krishnakant.rawat02@gmail.com
-            </a>
-          </li>
+    
+         
           <li>
             <a
               href="tel:+9575215387"
@@ -114,7 +100,7 @@ const Footer = () => {
           </li>
           <li>
             <a
-              href="mailto:example1@gmail.com"
+              href="mailto:harshpunde3@gmail.com"
               className="hover:text-light-green-400 transition-all duration-300"
             >
              harshpunde3@gmail.com
